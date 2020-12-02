@@ -1,0 +1,9 @@
+#blueBlock{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-image: linear-gradient(red, yellow, green);
+  position: absolute;
+  top: 150px;
+  left: 10px;
+}
